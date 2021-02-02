@@ -12,3 +12,4 @@ LeetCode
 | # | Title | Solution | Happy |
 |---| ----- | -------- | ---------- |
 |1|[Number of 1 Bits](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3625/) | [Python] |[✨✨]|
+|2|[Number of 1 Bits](https://leetcode.com/problems/trim-a-binary-search-tree/discuss/1046969/Python3-DFS-explained) | [Python] |[✨✨]|

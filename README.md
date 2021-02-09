@@ -15,3 +15,4 @@ LeetCode
 |2|[Trim a Binary Search Tree](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3626/) | [Python] |[✨✨]|
 |3|[Linked List Cycle](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3627/) | [Python] |[✨✨]|
 |4|[Longest Harmonious Subsequence](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/584/week-1-february-1st-february-7th/3628/) | [Python] |[✨✨]|
+|5|[Peeking Iterator](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3633/) | [Python] |[✨✨]|

@@ -21,5 +21,7 @@ LeetCode
 |8|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3637/) | [Python] |[✨✨]|
 |9|[Letter Case Permutation](https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/586/week-3-february-15th-february-21st/3642/) | [Python] |[✨✨]|
 |10|[Missing Number](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3659/) | [Python] |[✨✨]|
+|11|[Average of Levels in Binary Tree](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3661/) | [Python] |[✨✨]|
+
 
 

@@ -23,6 +23,6 @@ LeetCode
 |10|[Missing Number](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3659/) | [Python] |[✨✨]|
 |11|[Average of Levels in Binary Tree](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/3661/) | [Python] |[✨✨]|
 |12|[Remove Palindromic Subsequences](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/589/week-2-march-8th-march-14th/3665/) | [Python] |[✨✨]|
-
+|13|[Brick Wall](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3717/) | [Python] |[✨✨]|
 
 

@@ -1,8 +1,8 @@
 # Find the maximum element in an array.
 
-#stat with first element as the currect maximum
-# compare the each elenment with the current maximum
-# update the maximum if a larger element in found
+#start with the first element as the current maximum
+# compare each element with the current maximum
+# update the maximum if a larger element is found
 # At the end, return the maximum element
 
 def find_max(arr):

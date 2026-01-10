@@ -26,6 +26,6 @@ LeetCode
 |13|[Brick Wall](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/596/week-4-april-22nd-april-28th/3717/) | [Python] |[✨✨]|
 |14|[Count Primes](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3738/) | [Python] |[✨✨]|
 |15|[Palindrome String]([https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/palindrome_string.py) | [Python] |[✨✨]|
-|15|[Maximum Sum]([https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/maximum_sum.py) | [Python] |[✨✨]|
+|16|[Maximum Sum]([https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/maximum_sum.py) | [Python] |[✨✨]|
 
 

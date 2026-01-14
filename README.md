@@ -28,6 +28,6 @@ LeetCode
 |15|[Palindrome String]([https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/palindrome_string.py) | [Python] |[✨✨]|
 |16|[Maximum Sum]([https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/maximum_sum.py) | [Python] |[✨✨]|
 |17|[Longest Substring]([https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/longest_substring.py) | [Python] |[✨✨]| 
-|18|[Graham Scan]([https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/graham_scan.py]) | [Python] |[✨✨]|
+|18|[Graham Scan](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/graham_scan.py) | [Python] |[✨✨]|
 
 

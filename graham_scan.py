@@ -110,3 +110,10 @@ for p in convex_hull:
 # Space Complexity
 
 # Hull + sorting storage → O(n)
+# Output
+ghost@ghost-GF65-Thin-10UE:~/Documents/program_txt_folder/dsa_code$ python3 graham_scan.py 
+Convex Hull Points:
+(0, 0)
+(3, 0)
+(3, 3)
+(0, 3)

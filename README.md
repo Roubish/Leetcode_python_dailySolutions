@@ -30,4 +30,4 @@ LeetCode
 |17|[Longest Substring](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/longest_substring.py) | [Python] |[✨✨]| 
 |18|[Graham Scan](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/graham_scan.py) | [Python] |[✨✨]|
 |19|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [LeetCode  Python] |[✨✨]|
-
+|20|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [LeetCode  Python] |[✨✨]|

@@ -30,3 +30,7 @@ def top_k_frequent(nums, k):
 
 nums = [1,1,1,2,2,3,3,3,3,4]
 print(top_k_frequent(nums, 2)) 
+
+# Output 
+# roubish@roubish-007:~/Documents/dsa_code_practice$ python3 most_frequent_elements.py 
+# [1, 3]  

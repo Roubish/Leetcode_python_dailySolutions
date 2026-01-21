@@ -32,4 +32,4 @@ LeetCode
 |19|[Mearge All Overlapping Intervals](https://leetcode.com/problems/distinct-subsequences/description/) | [LeetCode  Python] |[✨✨]|
 |20|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [LeetCode  Python] |[✨✨]|
 |21|[frequent elements in an array](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/most_frequent_elements.py) | [Python] |[✨✨]|
-|22|[frequent elements in an array](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/mearge_all_overlapping_intervals.py) | [Python] |[✨✨]|
+|22|[Mearge All Overlapping Intervals](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/mearge_all_overlapping_intervals.py) | [Python] |[✨✨]|

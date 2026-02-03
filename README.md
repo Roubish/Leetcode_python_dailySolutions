@@ -34,3 +34,4 @@ LeetCode
 |21|[frequent elements in an array](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/most_frequent_elements.py) | [Python] |[✨✨]|
 |22|[Mearge All Overlapping Intervals](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/mearge_all_overlapping_intervals.py) | [Python] |[✨✨]|
 |23|[Rotated Sorted Array](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/rotated_sorted_array.py) | [Python] |[✨✨]|
+|24|[Merge Two Sorted Lists](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/merge_two_sorted_lists.py) | [Python] |[✨✨]| 

@@ -36,3 +36,4 @@ LeetCode
 |23|[Rotated Sorted Array](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/rotated_sorted_array.py) | [Python] |[✨✨]|
 |24|[Merge Two Sorted Lists](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/merge_two_sorted_lists.py) | [Python] |[✨✨]| 
 |25|[Matrix Zigzag with Obstacles and Variable Steps](https://github.com/Roubish/Leetcode_python_dailySolutions/blob/main/matrix_zigzag.py) | [Python] |[✨✨]| 
+|26|[Task Scheduler](https://leetcode.com/problems/task-scheduler/submissions/1929770866/) | [LeetCode] |[✨✨]|
